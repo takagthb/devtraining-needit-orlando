@@ -7,7 +7,7 @@
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
-        <icon display_value="By Request Type Icon">08ffa72a07b2501067a5f16c7c1ed0f9</icon>
+        <icon display_value="icon-Address-Book">04ffa32a07b2501067a5f16c7c1ed052</icon>
         <item_view display_value="By Request Type Header Item View">00ffa72a07b2501067a5f16c7c1ed0fb</item_view>
         <name>By Request Type</name>
         <roles_override/>
@@ -15,14 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-26 11:55:24</sys_created_on>
         <sys_id>88ffa72a07b2501067a5f16c7c1ed0fc</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>By Request Type</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_sg_form_screen_88ffa72a07b2501067a5f16c7c1ed0fc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-26 12:31:12</sys_updated_on>
+        <sys_updated_on>2021-02-12 06:50:06</sys_updated_on>
         <table>x_58872_needit_needit</table>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=88ffa72a07b2501067a5f16c7c1ed0fc"/>
